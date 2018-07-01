@@ -1,0 +1,50 @@
+ @import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+@import url('https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope|Press+Start+2P');
+@import url('https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope|Bungee+Shade|Press+Start+2P');
+body { 
+  background-image: url("img/light-bg2.png");
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1.5cm;
+  color:purple;
+}
+
+p { 
+  font-size: 1cm;
+  font-family: 'Press Start 2P', cursive;
+  font-family: 'Annie Use Your Telescope', cursive;
+  line-height:3cm;
+}
+
+.number {
+  font-size:5cm;
+} 
+  
+.start {
+  display:block;
+  background-color:pink;
+  colour:white;
+  width:5cm;
+  height:5cm;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:50%;
+  line-height:5cm;
+  font-family: 'Press Start 2P', cursive;
+  font-family: 'Annie Use Your Telescope', cursive;
+  font-family: 'Bungee Shade', cursive;
+  font-size: 1cm; 
+}
+
+.start:hover {
+  background-color: pink;
+  transition: black;
+  box-shadow: 6px 8px 20px 5px black;
+  padding:15px;
+}
+
+
+
